@@ -24,6 +24,7 @@ function FibonacciSequence() {
 
   return (
     <div className="container">
+          <h2>Fibonacci Sequence</h2>
       <input
         type="number"
         value={numTerm}
